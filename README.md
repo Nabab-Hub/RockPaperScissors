@@ -3,6 +3,11 @@
 <img src = 'images/img2.png' align='center'>
 <img src = 'images/img3.png' align='center'>
 <img src = 'images/img4.png' align='center'>
+# Before Executing this code install this dependencies
+```python
+pip install opencv-python
+pip install mediapipe
+``` 
 
 # Main Working Logic
    - ✊ Rock
